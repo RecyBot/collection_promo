@@ -15,5 +15,7 @@ Bring us your old electronics! The orange box near the cloakroom of the blue bui
 ![Collection Box](/images/collection_box.jpg)
 
 RecyBot team
+
 Skoltech Robotics Lab
+
 Contact us at [dima.mironov@skoltech.ru](mailto://dima.mironov@skoltech.ru) if you have any ideas.
