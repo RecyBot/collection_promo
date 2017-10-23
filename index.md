@@ -20,5 +20,5 @@ Skoltech Robotics Lab
 
 Contact us at [dima.mironov@skoltech.ru](mailto://dima.mironov@skoltech.ru) if you have any ideas or if you are first year master student, who wishes to join the project.
 
-This is our poster from last Skoltech internal conferece:
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSVCscw8j6h_kaz5EQB77HmBO20PMo_mM4L3adh7Pl-hD1p5h8_ex5PVas-ZIZPhz5DGOIi1aCRwP0n/embed?start=false&loop=true&delayms=60000" frameborder="0" width="4768" height="6770" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+[This](https://docs.google.com/presentation/d/1XZ_5Rg4msrqCzUGk0EE5y64Qhix9LXLk9UhPLY7s05Q/edit?usp=sharing) is our poster from last Skoltech internal conferece. It contains a bit more technical information.
+
