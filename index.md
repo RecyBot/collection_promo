@@ -9,12 +9,10 @@ This is a video of our current prototypes:
 Give us your previous smartphones. We will collect a dataset to teach our robots automatically disassemble it.
 
 Let's do the recycling right!
-![Open Innovations Image]
-(/images/open_innovations_recycling.jpg)
+![Open Innovations Image](/images/open_innovations_recycling.jpg)
 
 Bring us your old electronics! The orange box near the cloakroom of the blue building in Skoltech (Moscow, Nobelya 3).
-![Collection Box]
-(/images/collection_box.jpg)
+![Collection Box](/images/collection_box.jpg)
 
 RecyBot team
 Skoltech Robotics Lab
