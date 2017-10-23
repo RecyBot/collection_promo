@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## RecyBot: Smartphone Recycling
 
-You can use the [editor on GitHub](https://github.com/okdimok/recybot_collection_promo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+More than 1.4 mln smartphones are sold each year in the world. More than 1 mln is discarded. More than 90% end up in the landfills. We are going to change that. We create a robotic system for automatic smartphone dissassembly.
 
-### Markdown
+This is a video of our current prototypes:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/usPxs6l5Mwo?color=white&theme=light" frameborder="0" allowfullscreen></iframe>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Give us your previous smartphones. We will collect a dataset to teach our robots automatically dissassemble it.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/okdimok/recybot_collection_promo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Contact us at [dima.mironov@skoltech.ru](mailto://dima.mironov@skoltech.ru) if you have any ideas.
